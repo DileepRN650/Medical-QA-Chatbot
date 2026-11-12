@@ -1,0 +1,21 @@
+# API keys and secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# ChromaDB database
+vectorstore/chroma_db/
+
+# Temporary files
+*.log
+.DS_Store

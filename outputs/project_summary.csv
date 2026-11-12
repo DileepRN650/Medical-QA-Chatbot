@@ -1,0 +1,9 @@
+Component,Details
+Project Name,Medical Q&A Chatbot
+Dataset,MedQuAD
+Embedding Model,sentence-transformers/all-MiniLM-L6-v2
+Vector Database,ChromaDB
+LLM,Groq - openai/gpt-oss-20b
+Framework,LangChain
+Architecture,Retrieval-Augmented Generation (RAG)
+Interface,Jupyter Notebook

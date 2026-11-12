@@ -1,0 +1,4 @@
+Question,Matched Keywords,Expected Keywords,Keyword Coverage (%),Answer Length
+What are the symptoms of diabetes?,3,4,75.0,675
+What is asthma?,0,2,0.0,236
+What is hypertension?,1,1,100.0,869
